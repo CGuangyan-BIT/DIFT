@@ -1,4 +1,4 @@
-# Full Transformer Framework for Rpbust Point Cloud Registration with Deep Information Interaction
+# Deep Interactive Full Transformer Framework for Point Cloud Registration
 
 ![DIFT-architecture](DIFT_arch.png)
 
